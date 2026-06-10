@@ -1,12 +1,16 @@
 ## Hi there 👋
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sweta%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sweta%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Machine%20Learning%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
+
 
  <p align="center">
   <a href="https://komarev.com/ghpvc/?username=swetasingh08">
     <img src="https://komarev.com/ghpvc/?username=swetasingh08&label=Profile%20views&color=00FFFF&style=flat-square" alt="swetasingh08's profile views" />
   </a>
 </p>
+
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 
@@ -170,6 +174,15 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
+
 <!--
 **swetasingh08/swetasingh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
