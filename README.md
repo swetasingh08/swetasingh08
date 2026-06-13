@@ -135,7 +135,7 @@
 ## 🏆 Certifications & Achievements
 
 - 🎓 Completed ServiceNow Virtual Internship Program
--🎓 TCS Young Professional Course — Completed foundational training in professional skills, communication, and workplace readiness provided by Tata Consultancy Services.
+- 🎓 TCS Young Professional Course
 - 📊 Successfully completed Data Visualization with Python Certification from IBM
 - 🥇 Achieved Top 5% Performer recognition in NPTEL Computer Networks through SWAYAM
 - 🏅 Earned Elite + Gold Certification in Java Programming from NPTEL through SWAYAM
