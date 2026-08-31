@@ -16,8 +16,6 @@
 
 💡 Passionate about AI/ML, Full-Stack Development, Data Science, and Cloud Technologies.
 
-🚀 Skilled in Python, Java, React.js, Node.js, Database Management, and ServiceNow technologies.
-
 📚 Continuously learning and building innovative solutions through projects, certifications, and hands-on experience.
 
 ---
